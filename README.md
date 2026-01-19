@@ -57,6 +57,8 @@ Technologies utilisées :
 #Licence
 
 ##Ce projet est sous licence MIT – libre d’utilisation à des fins éducatives. 
+
 Copyright (c) 2026 Achref Aloui
+
 All rights reserved for academic credit.
 
