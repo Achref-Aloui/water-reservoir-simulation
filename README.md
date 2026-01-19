@@ -51,7 +51,9 @@ Technologies utilisées :
 #Auteur
 
 #Aloui Achref
+
 ##Projet personnel – Python
 
 #Licence
+
 ##Ce projet est sous licence MIT – libre d’utilisation à des fins éducatives. 
